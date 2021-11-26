@@ -13,11 +13,11 @@ Data augmentation is a very popular method in computer vision but they can be us
 
 	Google-translate, yandex etc. can be used here. --> Web scraping.
 
-2. **Easy Data Augmentation (EDA)**
+2. **Easy Data Augmentation (EDA)** :tractor:
 
    EDA is a simple and traditional method for data augmentation. Consist of 4 operations.
 
-   - Synonym Replacement
+   - **Synonym Replacement**
 
      Select a word that is not a stop words and replace it its synonym.
 
@@ -29,7 +29,7 @@ Data augmentation is a very popular method in computer vision but they can be us
      lorem ipsum
      ```
 
-   - Random Insertion
+   - **Random Insertion**
 
      Find a random synonym of a random word in text date and insert into a random place.
 
@@ -41,7 +41,7 @@ Data augmentation is a very popular method in computer vision but they can be us
      lorem ipsum
      ```
 
-   - Random Swap
+   - **Random Swap**
 
      Randomly select 2 words in the text and swap the positions.
 
@@ -53,7 +53,7 @@ Data augmentation is a very popular method in computer vision but they can be us
      lorem ipsum
      ```
 
-   - Random Deletion
+   - **Random Deletion**
 
      Randomly select n words and remove it.
 
@@ -65,7 +65,7 @@ Data augmentation is a very popular method in computer vision but they can be us
      lorem ipsum
      ```
 
-3. **NLP Albumentation**
+3. **NLP Albumentation** :camera:
 
    If the given text contains multiple sentences then just shuffled them.
 
@@ -81,7 +81,7 @@ Data augmentation is a very popular method in computer vision but they can be us
    <Sentence5><Sentence3><Sentence4><Sentence2><Sentence1>
    ```
 
-4. **NLP Aug Library**
+4. **NLP Aug Library** :books:
 
    NLPAug is a library that helps you to implement all the data augmentation methods above on your projects. 
 
