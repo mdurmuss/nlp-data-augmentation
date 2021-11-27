@@ -9,7 +9,7 @@ Data augmentation is a very popular method in computer vision but they can be us
 
    Translate the text to another language and then translate it back to your language. This may generate text data with different words without changing the meaning of the sentence.
 
-   ![](https://lh6.googleusercontent.com/x3ZAhTDLT1QVSD8gCdaBVMquM2dcYA15A-orfzXyTzhTP8m0ZKLXz_2NrJdWlTgWKRS7BimExM8RO9Ce_uVVVdRR29vGeP0VZdncDZY0GTwkctocQyYg7HK9VL5ay3QC4JhbSXBK)
+   ![](./asset/figure1.jpg)
 
 	Google-translate, yandex etc. can be used here. --> Web scraping.
 
@@ -22,47 +22,47 @@ Data augmentation is a very popular method in computer vision but they can be us
      Select a word that is not a stop words and replace it its synonym.
 
      ```
-     lorem ipsum
+     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
      ```
 
      ```
-     lorem ipsum
+     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları lisanı insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim alanıdır.
      ```
 
    - **Random Insertion**
 
-     Find a random synonym of a random word in text date and insert into a random place.
+     Find a random synonym of a random **n** words in text date and insert into a random place.
 
      ```
-     lorem ipsum
+     Daha önce de bu durumla karşılaşmıştım.
      ```
 
      ```
-     lorem ipsum
+     Bu durumla geçmişte de karşılaşmıştım.
      ```
 
    - **Random Swap**
 
-     Randomly select 2 words in the text and swap the positions.
+     Randomly select **n** words in the text and swap the positions.
 
      ```
-     lorem ipsum
+     Oktay okulun basketbol takımındaki öğrencilerinden biriydi.
      ```
 
      ```
-     lorem ipsum
+     Okulun basketbol takımındaki öğrencilerinden biriydi Oktay.
      ```
 
    - **Random Deletion**
 
-     Randomly select n words and remove it.
+     Randomly select **n** words and remove them.
 
      ```
-     lorem ipsum
+     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
      ```
 
      ```
-     lorem ipsum
+     Doğal Dil İşleme insanların anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
      ```
 
 3. **NLP Albumentation** :camera:
