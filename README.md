@@ -21,49 +21,39 @@ Data augmentation is a very popular method in computer vision but they can be us
 
      Select a word that is not a stop words and replace it its synonym.
 
-     ```
-     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
-     ```
+     > Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları **dili** insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim **dalıdır**.
 
-     ```
-     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları lisanı insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim alanıdır.
-     ```
+     > Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları **lisanı** insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim **alanıdır**.
+
+     
 
    - **Random Insertion**
 
      Find a random synonym of a random **n** words in text date and insert into a random place.
 
-     ```
-     Daha önce de bu durumla karşılaşmıştım.
-     ```
+     > **Daha önce** de bu durumla karşılaşmıştım.
+     
+     > **Geçmişte** de bu durumla karşılaşmıştım.
 
-     ```
-     Bu durumla geçmişte de karşılaşmıştım.
-     ```
-
+     
+     
    - **Random Swap**
 
      Randomly select **n** words in the text and swap the positions.
 
-     ```
-     Oktay okulun basketbol takımındaki öğrencilerinden biriydi.
-     ```
+     > **Oktay** okulun basketbol takımındaki öğrencilerinden biriydi.
+     
+     > Okulun basketbol takımındaki öğrencilerinden biriydi **Oktay**.
 
-     ```
-     Okulun basketbol takımındaki öğrencilerinden biriydi Oktay.
-     ```
-
+     
+     
    - **Random Deletion**
 
      Randomly select **n** words and remove them.
 
-     ```
-     Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
-     ```
-
-     ```
-     Doğal Dil İşleme insanların anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
-     ```
+     > Doğal Dil İşleme insanların **kendi aralarında** anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini **en** üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
+     
+     > Doğal Dil İşleme insanların anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
 
 3. **NLP Albumentation** :camera:
 
