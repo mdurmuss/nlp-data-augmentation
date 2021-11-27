@@ -26,7 +26,9 @@
      Select a word that is not a stop words and replace it its synonym.
 
      > Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları **dili** insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim **dalıdır**.
-
+     >
+     > 
+     >
      > Doğal Dil İşleme insanların kendi aralarında anlaşmak için kullandıkları **lisanı** insan-bilgisayar etkileşimini en üst düzeye çıkarabilmek için çözümler üreten bilim **alanıdır**.
 
      
@@ -35,20 +37,24 @@
 
      Find a random synonym of a random **n** words in text date and insert into a random place.
 
-     > **Daha önce** bu durumla karşılaşmıştım.
+     > Karşımda beni ciddi ciddi süzen, **küçük**, **eşi görülmedik** biri duruyordu.
+     >
+     > 
+     >
+     > Karşımda **minik, eşsiz** beni ciddi ciddi süzen biri duruyordu.
      
-     > Bu durumla **geçmişte** karşılaşmıştım.
-
      
      
    - **Random Swap**
 
      Randomly select **n** words in the text and swap the positions.
 
-     > **Oktay** okulun basketbol takımındaki öğrencilerinden biriydi.
+     > **Karşımda** beni ciddi ciddi süzen, küçük, eşi görülmedik biri duruyordu.
+     >
+     > 
+     >
+     > Beni ciddi ciddi süzen, küçük, eşi görülmedik biri **karşımda** duruyordu.
      
-     > Okulun basketbol takımındaki öğrencilerinden biriydi **Oktay**.
-
      
      
    - **Random Deletion**
@@ -56,8 +62,11 @@
      Randomly select **n** words and remove them.
 
      > Doğal Dil İşleme insanların **kendi aralarında** anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini **en** üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
-     
+     >
+     > 
+     >
      > Doğal Dil İşleme insanların anlaşmak için kullandıkları dili insan-bilgisayar etkileşimini üst düzeye çıkarabilmek için çözümler üreten bilim dalıdır.
+     
 
 3. **NLP Albumentation** :camera:
 
