@@ -35,9 +35,9 @@
 
      Find a random synonym of a random **n** words in text date and insert into a random place.
 
-     > **Daha önce** de bu durumla karşılaşmıştım.
+     > **Daha önce** bu durumla karşılaşmıştım.
      
-     > **Geçmişte** de bu durumla karşılaşmıştım.
+     > Bu durumla **geçmişte** karşılaşmıştım.
 
      
      
