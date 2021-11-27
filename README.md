@@ -11,11 +11,15 @@
 
    ![](./asset/figure1.jpg)
 
-	Google-translate, yandex etc. can be used here. --> Web scraping.
+   Google-translate, yandex etc. can be used here. --> Web scraping.
+
+   
 
 2. **Easy Data Augmentation (EDA)** :tractor:
 
    EDA is a simple and traditional method for data augmentation. Consist of 4 operations.
+
+   
 
    - **Synonym Replacement**
 
@@ -57,9 +61,9 @@
 
 3. **NLP Albumentation** :camera:
 
-   If the given text contains multiple sentences then just shuffled them.
+   If the given text contains multiple sentences then just shuffle them.
 
-   Given text:
+   Text:
 
    ```
    Beynimden vurulmuşçasına yerimden fırladım. Gözlerimi ovuşturdum iyice. Her yanı gözden geçirdim. Karşımda beni ciddi ciddi süzen, küçük, eşi görülmedik biri duruyordu.
