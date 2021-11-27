@@ -1,5 +1,5 @@
 # Data Augmentation for NLP
-Data augmentation is a very popular method in computer vision but they can be useful when your data is text.
+*Data augmentation* is a very popular method in *computer vision* but they can be useful when your data is *text*. This repo contains implementation of data augmentation techniques on *Turkish* language. 
 
 
 
