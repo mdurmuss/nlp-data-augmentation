@@ -62,13 +62,13 @@
    Given text:
 
    ```
-   <Sentence1><Sentence2><Sentence3><Sentence4><Sentence5>
+   Beynimden vurulmuşçasına yerimden fırladım. Gözlerimi ovuşturdum iyice. Her yanı gözden geçirdim. Karşımda beni ciddi ciddi süzen, küçük, eşi görülmedik biri duruyordu.
    ```
 
    Augmented text:
 
    ```
-   <Sentence5><Sentence3><Sentence4><Sentence2><Sentence1>
+   Karşımda beni ciddi ciddi süzen, küçük, eşi görülmedik biri duruyordu. Gözlerimi ovuşturdum iyice. Her yanı gözden geçirdim. Beynimden vurulmuşçasına yerimden fırladım.
    ```
 
 4. **NLP Aug Library** :books:
