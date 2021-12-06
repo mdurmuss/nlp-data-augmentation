@@ -1,3 +1,4 @@
 *.swp
 *.ipynb_checkpoints/
 venv/
+embedding_model_tr
